@@ -17,13 +17,6 @@
 - No ads.
 - Lightweight and easy to use.
 
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/rename.png" width="250">
-</p>
-
 ## Supported Protocols
 
 - VLESS
