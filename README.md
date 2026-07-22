@@ -1,10 +1,5 @@
 # VTG
 
-## Screenshots
-<img src="screenshots/home.png" width="300">
-<img src="screenshots/rename.png" 
-width="300">
-
 **VTG** is a lightweight, fast and fully offline configuration editor for V2Ray-compatible links. It helps users quickly rename remarks and replace server addresses for multiple configurations while keeping only clean and valid output.
 
 ## Features
@@ -21,6 +16,13 @@ width="300">
 - Works completely offline.
 - No ads.
 - Lightweight and easy to use.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="250">
+  <img src="screenshots/rename.png" width="250">
+</p>
 
 ## Supported Protocols
 
