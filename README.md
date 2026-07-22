@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" width="160">
+  <img src="Logo.jpg" width="160">
 </p>
 
 <h1 align="center">VTG</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🚀 Fast • 🔒 Private • ⚡ Offline
+  🚀 Fast • ⚡ Lightweight • 🔒 Privacy Focused
 </p>
 
 ---
@@ -20,37 +20,34 @@
 
 VTG is a lightweight and powerful configuration editor for V2Ray-compatible links.
 
-It allows users to easily manage, edit and optimize multiple configurations with a simple and modern interface.
+It helps users easily manage, edit and optimize multiple configurations with a simple and modern interface.
 
-All operations are performed locally on your device, ensuring privacy and security.
+All operations are processed locally on your device to protect user privacy.
 
 ---
 
 ## ✨ Features
 
-🔹 Rename Remarks  
-Change configuration names quickly and easily.
+📝 **Rename Remarks**  
+Quickly rename multiple configuration remarks.
 
-🔹 IP Address Replacement  
+🌐 **IP Address Replacement**  
 Replace server Address/Host with custom IP addresses or domains.
 
-🔹 Multi Protocol Support  
-Supports popular V2Ray protocols.
-
-🔹 Smart Detection  
+🔍 **Smart Detection**  
 Automatically detects valid configuration links.
 
-🔹 Clean Output  
-Removes unnecessary text and keeps only valid configurations.
+📋 **Clean Output**  
+Keeps only valid and modified configurations.
 
-🔹 One Click Copy  
-Copy modified configurations instantly.
+📄 **Multi Protocol Support**  
+Supports VLESS, Trojan, VMess, Shadowsocks and ShadowsocksR.
 
-🔹 Fully Offline  
+⚡ **Fast & Offline**  
 No internet connection required.
 
-🔹 Privacy Focused  
-No data collection and no uploads.
+🔒 **Privacy Focused**  
+No data collection and no configuration uploads.
 
 ---
 
@@ -70,27 +67,16 @@ No data collection and no uploads.
 
 ## 🆕 Latest Update
 
-### 🚀 IP Address Replacement
+### 🌐 IP Address Replacement
 
-Added a new feature for replacing server addresses.
+A new feature has been added to replace server addresses.
 
-Users can now:
+You can now:
 
 ✅ Add custom IP addresses  
 ✅ Replace domains easily  
-✅ Edit multiple configurations at once  
-✅ Keep original configuration structure
-
----
-
-## 🔒 Privacy
-
-VTG respects user privacy.
-
-✔ No data collection  
-✔ No configuration upload  
-✔ No tracking  
-✔ Everything works locally
+✅ Modify multiple configurations  
+✅ Keep the original structure
 
 ---
 
@@ -100,59 +86,59 @@ VTG respects user privacy.
 
 VTG یک ابزار سبک و سریع برای مدیریت و ویرایش کانفیگ‌های سازگار با V2Ray است.
 
-این برنامه به کاربران اجازه می‌دهد کانفیگ‌های خود را به آسانی تغییر داده، مدیریت کرده و خروجی تمیز دریافت کنند.
+این برنامه به کاربران اجازه می‌دهد کانفیگ‌های خود را تغییر داده، IP یا دامنه را جایگزین کرده و خروجی تمیز دریافت کنند.
 
-تمامی پردازش‌ها به صورت محلی روی دستگاه انجام می‌شود و هیچ اطلاعاتی ارسال نمی‌شود.
+تمام پردازش‌ها به صورت محلی روی دستگاه انجام می‌شود.
 
 ---
 
 ## ✨ قابلیت‌ها
 
-📝 تغییر نام Remark
+📝 **تغییر نام Remark**
 
-امکان تغییر نام کانفیگ‌ها به صورت سریع و همزمان.
+تغییر نام چندین کانفیگ به صورت سریع و آسان.
 
-🌐 افزودن و تغییر IP
+🌐 **افزودن و جایگزینی IP**
 
-جایگزینی Address/Host با IP یا دامنه دلخواه.
+امکان تغییر Address/Host با IP یا دامنه دلخواه.
 
-⚙️ پشتیبانی از چندین پروتکل
+⚙️ **پشتیبانی از پروتکل‌ها**
 
-پشتیبانی از کانفیگ‌های محبوب V2Ray.
+پشتیبانی از VLESS، Trojan، VMess، SS و SSR.
 
-🔍 تشخیص هوشمند کانفیگ
+🔍 **تشخیص هوشمند**
 
 شناسایی لینک‌های معتبر و حذف متن‌های اضافی.
 
-📋 کپی سریع
+📋 **خروجی تمیز**
 
-کپی خروجی تنها با یک کلیک.
+دریافت کانفیگ‌های اصلاح شده و آماده استفاده.
 
-⚡ سبک و سریع
+⚡ **سریع و آفلاین**
 
-بدون تبلیغات و بدون نیاز به اینترنت.
+بدون نیاز به اتصال اینترنت.
 
-🔐 حفظ حریم خصوصی
+🔒 **حفظ حریم خصوصی**
 
-تمام اطلاعات فقط روی دستگاه شما پردازش می‌شود.
-
----
-
-## 📱 تصاویر برنامه
-
-به زودی اضافه می‌شود...
+هیچ اطلاعاتی ذخیره یا ارسال نمی‌شود.
 
 ---
 
-## 📥 دانلود
+## 📱 Screenshots
 
-آخرین نسخه VTG را از بخش Releases دریافت کنید.
+Coming Soon...
 
 ---
 
-## 💎 حمایت از توسعه
+## 📥 Download
 
-با حمایت شما می‌توانیم ابزارهای بیشتر و پروژه‌های متن‌باز کاربردی‌تری توسعه دهیم.
+Download the latest APK from Releases.
+
+---
+
+## 💎 Support Development
+
+Your support helps us continue developing more useful open-source tools
 
 ---
 
@@ -172,4 +158,4 @@ MIT License
 
 ---
 
-## 🏷️ Topics
+## 🏷 Topics
