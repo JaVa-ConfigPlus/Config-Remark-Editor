@@ -1,21 +1,51 @@
-# VTG
+<p align="center">
+  <img src="logo.png" width="160">
+</p>
 
-**VTG** is a lightweight, fast and fully offline configuration editor for V2Ray-compatible links. It helps users quickly rename remarks and replace server addresses for multiple configurations while keeping only clean and valid output.
+<h1 align="center">VTG</h1>
+
+<p align="center">
+V2Ray Toolkit - Lightweight Configuration Editor
+</p>
+
+<p align="center">
+Fast • Offline • Privacy Focused
+</p>
+
+
+## About VTG
+
+VTG is a lightweight and powerful configuration editor for V2Ray-compatible links.
+
+It helps users quickly manage and modify multiple configurations with a simple and modern interface while keeping all data processed locally on the device.
 
 ## Features
 
-- Rename Remarks for multiple configurations.
-- Replace Address/Host with custom domains or IP addresses.
-- Supports VLESS, Trojan, VMess, Shadowsocks (SS) and ShadowsocksR (SSR).
-- Automatically detects valid configuration links.
-- Ignores extra text, emojis and unrelated content.
-- Outputs only clean and modified configuration links.
-- Fast processing.
-- Modern and responsive interface.
-- One-click copy to clipboard.
-- Works completely offline.
-- No ads.
-- Lightweight and easy to use.
+- Rename remarks for multiple configurations
+- Replace Address/Host with custom IPs or domains
+- Supports VLESS, Trojan, VMess, Shadowsocks and ShadowsocksR
+- Automatically detects valid configuration links
+- Removes extra text and invalid content
+- Clean and ready-to-use output
+- One-click copy to clipboard
+- Fast and lightweight processing
+- Fully offline
+- No ads
+- No data collection
+
+
+## Latest Update
+
+### IP Address Replacement
+
+Added a new feature to replace server addresses with custom IP addresses or domains.
+
+Features:
+- Replace IP/Domain in multiple configurations
+- Keep original configuration structure
+- Fast local processing
+- Compatible with supported protocols
+
 
 ## Supported Protocols
 
@@ -25,29 +55,62 @@
 - Shadowsocks (SS)
 - ShadowsocksR (SSR)
 
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="250">
+  <img src="screenshots/rename.png" width="250">
+</p>
+
+
 ## Privacy
 
-VTG processes everything locally on your device.
+VTG respects your privacy.
 
-- No data collection.
-- No internet connection required.
-- No configuration is uploaded.
-- Your data never leaves your device.
+- No configuration uploads
+- No tracking
+- No data collection
+- Everything is processed locally
+
 
 ## Download
 
-Download the latest APK from the Releases section.
+Download the latest version from GitHub Releases.
+
+[Download APK](../../releases)
+
+
+## Support Development
+
+If VTG is useful for you, supporting the project helps us continue developing more useful open-source tools.
+
+TON Support:
+
+YOUR_TON_LINK
+
 
 ## Developer
 
-**Java**
+Created and Developed by **Java**
 
-Telegram Channel
-
+Telegram:
 https://t.me/Config0plus
+
 
 ## License
 
 MIT License
-V2rang
-V2box
+
+
+## Topics
+
+v2ray  
+vless  
+vmess  
+trojan  
+shadowsocks  
+ssr  
+config-editor  
+android  
+open-source
